@@ -1,0 +1,16 @@
+﻿  WarpExTest.cpp
+C:\Users\boond\source\repos\The_Stupid_Rocket\The_Stupid_Rocket\WarpExTest.h(13,1): warning C4005: 'LIGHTGRAY': macro redefinition
+C:\raylib\raylib\src\raylib.h(128): message : see previous definition of 'LIGHTGRAY'
+C:\Users\boond\source\repos\The_Stupid_Rocket\The_Stupid_Rocket\WarpExTest.h(52,50): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\boond\source\repos\The_Stupid_Rocket\The_Stupid_Rocket\WarpExTest.h(52,50): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\boond\source\repos\The_Stupid_Rocket\The_Stupid_Rocket\WarpExTest.h(52,59): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\boond\source\repos\The_Stupid_Rocket\The_Stupid_Rocket\WarpExTest.h(52,59): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\boond\source\repos\The_Stupid_Rocket\The_Stupid_Rocket\WarpExTest.h(52,70): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\boond\source\repos\The_Stupid_Rocket\The_Stupid_Rocket\WarpExTest.h(52,70): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\boond\source\repos\The_Stupid_Rocket\The_Stupid_Rocket\WarpExTest.cpp(39,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\boond\source\repos\The_Stupid_Rocket\The_Stupid_Rocket\WarpExTest.cpp(39,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\boond\source\repos\The_Stupid_Rocket\The_Stupid_Rocket\WarpExTest.cpp(42,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\boond\source\repos\The_Stupid_Rocket\The_Stupid_Rocket\WarpExTest.cpp(42,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\boond\source\repos\The_Stupid_Rocket\The_Stupid_Rocket\WarpExTest.cpp(45,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\boond\source\repos\The_Stupid_Rocket\The_Stupid_Rocket\WarpExTest.cpp(45,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  The_Stupid_Rocket.vcxproj -> C:\Users\boond\source\repos\The_Stupid_Rocket\Debug\The_Stupid_Rocket.exe
